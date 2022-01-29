@@ -1,0 +1,10 @@
+Liste des sons :
+*** Morts ***
+•	Electricité
+•	Vide
+•	Ecrasement
+*** Divers ***
+-	Bouton
+-	Pick block
+-	Bruits de pas
+-	Pick cristal

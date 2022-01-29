@@ -1,0 +1,82 @@
+A partir du 9/02/19, ajouts ou modifications seront notées :
+
+Codes :
+Voler : //\\
+Arreter de Voler : \\//
+Stuff complet : 
+
+
+BUG : Son de la boule de temps en temps
+      Perso s'anime plus vers le haut quadn on mange le gateau d'une certaine facon
+
+A Faire : Supprimer si fait --> 
+- Sons avec les autres.
+- 3eme salle à commencer.
+
+09/02/19 :  
+
+Ajout de 4 leviers et 4 tuyaux pour la seconde partie de la salle 1, un laser est
+ajouté, il ne sera désactivé que par l'un des deux boutons de la 1ere partie de cette salle avec
+le cube. 
+Mode courir ajouté : Touche espace.
+
+
+Click droit changer pour click milieu --> Possibilité maintenant de se déplacer grâce au click droit
+Ajout des pieces totalement noires qui seront transparentes une fois découvertes.
+
+10/02/19:
+
+Ajout des platformes : dans la zone mettre mortvide=-2.
+Barriere orange ouverte apres que le levier soit activé.
+La boule ne peut plus sortir de la map. 
+Ajout de la fleche pour indiquer ou va le joueur.
+Ajout des lasers de la base.
+
+11/02/19: 
+
+Finissions de la salle 1.
+Ajout des mecaniques de la balle orange.
+Ajout de la salle 10 : troll screamer...
+Remove Herobine.
+
+13/02/2019:
+
+Animation du retour du levier effectuée.
+Finission de la salle 0 : 2 murs ajoutés au lieu de 2 trous + laser mis en place pour laisser au joueur le 
+temps de s'adapter à l'environnement.
+
+14/02/2019:
+
+Debuguer le reset de la boule : dureT=350
+Ajout du pause de la boule lorsque active=false.
+Résolution d'un bug où lorsque l'on changeait de pièce avec l'arme 2, on ne povait plus changer d'arme.
+
+15/02/2019:
+
+Hitbox du laser de la salle 1 refait et animation mise en place : mortlaser / mortlaser2
+Animation du lootobjet fait.
+Résolution d'un bug du cube.
+Ajout du Timer.
+Click droit et click milieu sont inversés pour cause de gameplay.
+
+20/02/2019:
+
+Porte amenant à la salle quifépeur mise.
+La porte s'ouvre en activant le 3eme levier de la salle 1 (à terme elle s'activera en appuyant à la fois sur le 1er bouton de la salle 1 et le 3eme levier).
+Ajout du son des portes
+Maj de la liste des son à faire.
+
+Du 21/02/2019 au 14/03/2019
+
+Menu pause : ajout code triche, ajout code de récup' d'émote, ajout d'une case active/désacitve de la musique.
+Interface expliquative des armes.
+Mise en page plus clean du code.
+Musique d'ambiance ajoutée.
+Animation du diamant salle 1 ajouté. 
+
+17/03/2019 :
+Résolution bug porte pour ouvrir + ajout d'un symbole lorsque le joueur peut l'ouvrir.
+Résolution d'un bug pour rénitialisé les codes lorsque l on quitte le menu pause + retrait des touches spéciales pour utiliser
+maj ou symbole etc...
+
+
